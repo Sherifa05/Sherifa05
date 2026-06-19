@@ -146,13 +146,6 @@ Autonomous robotic system using control theory.
 
 ---
 
-## 🌍 Languages
-
-- Arabic — Native  
-- English — Fluent (C1)  
-- Turkish — Intermediate (B1)
-
----
 
 ## 📊 GitHub Goals
 
