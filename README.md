@@ -38,16 +38,12 @@ Machine Learning • Deep Learning • Data Structures & Algorithms • Computer
 
 ### Programming Languages
 Python • JavaScript • R • MATLAB • PHP
-
 ### Machine Learning & AI
 TensorFlow • PyTorch • Neural Networks • Computer Vision • NLP • Pattern Recognition
-
 ### Quantum Computing
 Qiskit • Quantum Circuits • Quantum Algorithms • IBM Quantum Experience
-
 ### Web Development
 React • HTML5 • CSS3 • Bootstrap • MySQL • jQuery • REST APIs • FastAPI • PHP
-
 ### Core CS
 Data Structures • Algorithms • Problem Solving • Software Engineering • OOP
 
