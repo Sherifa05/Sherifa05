@@ -87,7 +87,7 @@ Data Structures • Algorithms • Problem Solving • Software Engineering • 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 ### 🧠 AI-Based Exam Proctoring System
 Real-time intelligent proctoring system using Computer Vision and Deep Learning.
@@ -143,16 +143,6 @@ Autonomous robotic system using control theory.
 - Artificial Intelligence Career Essentials (ALX Africa)  
 - Front-End Diploma – Instant  
 - Alexandria Quantum Hackathon – Recognition Award - Dry-Run Hackathon – 2nd Place (IBM Quantum supported)
-
----
-
-
-## 📊 GitHub Goals
-
-- Build production-level AI & Quantum projects
-- Contribute to open-source ML & quantum computing projects
-- Publish research-oriented implementations
-- Strengthen system design and backend engineering skills
 
 ---
 
